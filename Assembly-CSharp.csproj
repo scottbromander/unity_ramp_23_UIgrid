@@ -48,6 +48,7 @@
      <Compile Include="Assets\Scripts\PickupUI.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerInventoryDisplay.cs" />
+     <Compile Include="Assets\Scripts\PlayerInventoryModel.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <None Include="Assets\sources.txt" />
  <Reference Include="UnityEngine.Networking">
