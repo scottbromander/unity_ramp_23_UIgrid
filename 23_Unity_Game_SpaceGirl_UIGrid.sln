@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{19F8CD5F-6942-25FF-7A91-35E631A5AB9C}") = "23_Unity_Game_SpaceGirl_UIGrid", "Assembly-CSharp.csproj", "{602D6174-9834-6802-F961-92CCC11DFCC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602D6174-9834-6802-F961-92CCC11DFCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602D6174-9834-6802-F961-92CCC11DFCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602D6174-9834-6802-F961-92CCC11DFCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602D6174-9834-6802-F961-92CCC11DFCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
